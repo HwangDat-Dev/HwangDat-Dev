@@ -69,26 +69,22 @@
 ## 📈 GitHub Stats (fixed / stable)
 
 <p align="center">
-  <!-- GitHub Readme Stats (stable) -->
   <img height="165"
-    src="https://github-readme-stats.vercel.app/api?username=HwangDat-Dev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api?username=HwangDat-Dev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&cache_seconds=86400&v=1"
     alt="stats"
   />
-  <!-- Streak Stats (stable domain) -->
   <img height="165"
-    src="https://streak-stats.demolab.com?user=HwangDat-Dev&hide_border=true&theme=transparent"
+    src="https://streak-stats.demolab.com/?user=HwangDat-Dev&hide_border=true&theme=transparent&v=1"
     alt="streak"
   />
 </p>
 
 <p align="center">
   <img height="220"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HwangDat-Dev&layout=compact&langs_count=10&hide_border=true&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HwangDat-Dev&layout=compact&langs_count=10&hide_border=true&theme=transparent&cache_seconds=86400&v=1"
     alt="top-langs"
   />
 </p>
-
-> Nếu stats vẫn lúc được lúc không: GitHub rate limit/caching. Giữ nguyên link này là “chuẩn” nhất rồi.
 
 ---
 
