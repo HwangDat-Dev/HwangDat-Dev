@@ -59,15 +59,6 @@
 ---
 
 ## 📈 GitHub Stats
-
-<p align="center">
-  <!-- Streak (không dùng github-readme-stats) -->
-  <img height="165"
-    src="https://streak-stats.demolab.com/?user=HwangDat-Dev&hide_border=true&theme=transparent&v=1"
-    alt="streak"
-  />
-</p>
-
 <p align="center">
   <!-- Summary Cards (thay cho stats/top-langs) -->
   <img height="165"
