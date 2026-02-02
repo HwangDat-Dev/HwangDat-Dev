@@ -7,29 +7,21 @@
 </p>
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:hoangdat07082005@gmail.com">
     <img src="https://img.shields.io/badge/Email-1890FF?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/HwangDat-Dev">
     <img src="https://img.shields.io/badge/GitHub-1890FF?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <!-- Optional -->
-  <!--
-  <a href="YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-1890FF?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  -->
 </p>
 
 <p align="center">
-  <!-- Typing SVG (animation) -->
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=900&center=true&vCenter=true&width=560&lines=Build+clean+Enterprise+UI;Design+Systems+%7C+Dashboards+%7C+DX+First;React+%2B+TypeScript+%2B+Performance+Mindset"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=900&center=true&vCenter=true&width=600&lines=Build+clean+Enterprise+UI;Design+Systems+%7C+Dashboards+%7C+DX+First;React+%2B+TypeScript+%2B+Performance+Mindset"
     alt="typing"
   />
 </p>
 
-<!-- =====================  QUICK INTRO  ===================== -->
 <h3 align="center">Frontend Engineer • React • TypeScript</h3>
 
 <p align="center">
@@ -66,13 +58,10 @@
 
 ---
 
-## 📈 GitHub Stats (fixed / stable)
+## 📈 GitHub Stats
 
 <p align="center">
-  <img height="165"
-    src="https://github-readme-stats.vercel.app/api?username=HwangDat-Dev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&cache_seconds=86400&v=1"
-    alt="stats"
-  />
+  <!-- Streak (không dùng github-readme-stats) -->
   <img height="165"
     src="https://streak-stats.demolab.com/?user=HwangDat-Dev&hide_border=true&theme=transparent&v=1"
     alt="streak"
@@ -80,9 +69,32 @@
 </p>
 
 <p align="center">
-  <img height="220"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HwangDat-Dev&layout=compact&langs_count=10&hide_border=true&theme=transparent&cache_seconds=86400&v=1"
-    alt="top-langs"
+  <!-- Summary Cards (thay cho stats/top-langs) -->
+  <img height="165"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HwangDat-Dev&theme=transparent&v=1"
+    alt="profile-details"
+  />
+</p>
+
+<p align="center">
+  <img height="165"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HwangDat-Dev&theme=transparent&v=1"
+    alt="repos-per-language"
+  />
+  <img height="165"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HwangDat-Dev&theme=transparent&v=1"
+    alt="most-commit-language"
+  />
+</p>
+
+<p align="center">
+  <img height="165"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HwangDat-Dev&theme=transparent&v=1"
+    alt="stats-card"
+  />
+  <img height="165"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HwangDat-Dev&theme=transparent&utcOffset=7&v=1"
+    alt="productive-time"
   />
 </p>
 
@@ -99,11 +111,11 @@
 
 ---
 
-## 🐍 Contribution Snake (animation)
+## 🐍 Contribution Snake
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/HwangDat-Dev/HwangDat-Dev/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/HwangDat-Dev/HwangDat-Dev/output/github-contribution-grid-snake.svg?v=1"
     alt="snake"
   />
 </p>
@@ -112,5 +124,5 @@
 
 ## 📫 Contact
 
-- 📧 Email: hoangdat07082005@gmail.com
-- 🐙 GitHub: https://github.com/HwangDat-Dev
+- 📧 Email: **hoangdat07082005@gmail.com**
+- 🐙 GitHub: **https://github.com/HwangDat-Dev**
