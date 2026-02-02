@@ -3,7 +3,7 @@
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=1890FF&height=190&section=header&text=Leonard%20Hoang%20Dat&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Engineer%20%E2%80%A2%20React%20%E2%80%A2%20TypeScript&descAlignY=58&descSize=16"
     alt="header"
-  />
+  />(https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=Leonard%20Hoang%20Dat&section=header&reversal=true)
 </p>
 
 <p align="center">
